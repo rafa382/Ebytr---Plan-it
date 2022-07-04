@@ -1,0 +1,39 @@
+.inputTask {
+  background-color: #82b3ce;
+  border: none;
+  border-radius: 30px;
+  width: 790px;
+  height: 90px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 2%;
+}
+
+.div-input-task {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.divSecundaria {
+  background-color: rgb(255, 255, 255);
+  border-radius: 30px;
+  width: 950px;
+  height: 450px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  flex-direction: column;
+}
+
+.divPrincipal {
+  background-color: #82b3ce;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
