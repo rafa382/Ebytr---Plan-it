@@ -4,7 +4,7 @@ import './style/inputTaskStyle.css';
 import './style/taskList.css';
 import './style/addButtonStyle.css';
 import MainPage from './pages/mainPage';
-import React, { useState } from 'react';
+import React from 'react';
 import TaskManager from './components/taskManager';
 
 function App() {
