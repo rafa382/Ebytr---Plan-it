@@ -1,0 +1,14 @@
+.header {
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, #0492ff , #0c063c);
+  height: 140px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 50px;
+  font-family: sans-serif;
+}
