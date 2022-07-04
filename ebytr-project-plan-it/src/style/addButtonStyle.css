@@ -1,0 +1,16 @@
+.addButton {
+  background-color: #457295;
+  border: none;
+  color: white;
+  font-weight: bolder;
+  border-radius: 20px;  
+}
+
+.divAddButton {
+  height: 50px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 2%;
+}
