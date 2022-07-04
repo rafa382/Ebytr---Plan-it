@@ -1,0 +1,12 @@
+.taskList {
+  font-size: 25px;
+  color: #494747;
+  text-align: center;
+}
+
+.divList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
